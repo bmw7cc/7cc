@@ -58,11 +58,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/506/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default.mpd
 
-#EXTINF:-1 ch-number="311" tvg-id="AstroAODHD" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 311 Astro AOD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
-https://linearjitp02-playback.astro.com.my/vsg/41ZjT72bYITv6g0oRy4QZN51urd8EZMOCKsWQA4MQRhMA=bk5T/dash-wv/jitp-linearwm/2706/default.mpd
-
 #EXTINF:-1 ch-number="316" tvg-id="CTIAsia" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",316 CTI Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d626598c2ab452537509dcb8a86db910:f5a9cadea2372a52c2b91f9c261fe0a4
